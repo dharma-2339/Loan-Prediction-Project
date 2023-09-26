@@ -2,7 +2,7 @@
 
 ## OverView
 
-This repository contains a Machine Learning project aimed at predicting whether a customer is eligible for a loan or not. We have implemented three different algorithms for this task: Random Forest, Decision Tree, and Gradient Boosting. The goal is to help financial institutions automate their loan approval process, reducing the time and effort required for manual evaluation.
+This repository contains a Machine Learning project aimed at predicting whether a customer is eligible for a loan or not. I have implemented three different algorithms for this task: Random Forest, Decision Tree, and Gradient Boosting. The goal is to help financial institutions automate their loan approval process, reducing the time and effort required for manual evaluation.
 
 
 ## Motivation
